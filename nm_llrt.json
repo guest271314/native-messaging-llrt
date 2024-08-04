@@ -1,6 +1,6 @@
 {
   "name": "nm_llrt",
-  "description": "Amazon Web Services - Labs llrt Native Messaging Host",
+  "description": "Amazon Web Services - Labs LLRT (Low Latency Runtime) Native Messaging host",
   "path": "",
   "type": "stdio",
   "allowed_origins": []
